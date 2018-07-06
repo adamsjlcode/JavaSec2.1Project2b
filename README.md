@@ -12,10 +12,6 @@ diagram:
 
 ![](img/d96c8a05638ca4862c4c8cfb2b00b787.jpg)
 
->   **Optional**
-
->   **Method**
-
 Note that in addition to implementing the *Hand* class, you will need to modify
 the *Deck’s dealAHand* method to return a *Hand* object instead of a *String*
 object.
