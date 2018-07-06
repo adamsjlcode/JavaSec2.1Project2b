@@ -1,6 +1,6 @@
 # Project 2B – Card-Deck-Hand
 
-![](media/c00d0fca321da5d85b25f8ba421afc67.jpg)
+![](img/c00d0fca321da5d85b25f8ba421afc67.jpg)
 
 ## Hand of Cards
 
@@ -10,7 +10,7 @@ Extend the *Deck-of-Cards* project you have developed previously with the *Card*
 and *Deck* classes by adding a *Hand* class that implements the following *UML*
 diagram:
 
-![](media/d96c8a05638ca4862c4c8cfb2b00b787.jpg)
+![](img/d96c8a05638ca4862c4c8cfb2b00b787.jpg)
 
 >   **Optional**
 
